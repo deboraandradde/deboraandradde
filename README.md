@@ -7,7 +7,6 @@
 
 ## 💻 Minhas habilidades atuais:
 
-- Power BI
 - SQL (banco de dados)
 - Git e GitHub (aprendendo agora!)
 - Lógica de Programação
